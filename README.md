@@ -71,6 +71,7 @@ Watch [this video](https://www.youtube.com/watch?v=TbbnxJoMWXI) to learn more ab
   * [Magento 2 Auto Currency Switcher Extension](https://magefan.com/magento-2-currency-switcher-auto-currency-by-country)
   * [Magento 2 Auto Language Switcher Extension](https://magefan.com/magento-2-auto-language-switcher)
   * [Magento 2 GeoIP Switcher Extension](https://magefan.com/magento-2-geoip-switcher-extension)
+  * [Magento 2 Product Grid Inline Editor](https://magefan.com/magento-2-product-grid-inline-editor)
   * [Magento 2 Product Widget Advanced Extension](https://magefan.com/magento-2-product-widget)
   * [Magento 2 Conflict Detector Extension](https://magefan.com/magento2-conflict-detector)
   * [Magento 2 Lazy Load Extension](https://magefan.com/magento-2-image-lazy-load-extension)
