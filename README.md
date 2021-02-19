@@ -3,6 +3,9 @@
 
 Enrich your content embedding videos into your WYSIWYG editor with the [Magento 2 YouTube Video](https://magefan.com/magento2-youtube-extension) extension. It allows you to easily add videos to your Magento 2 website content to keep customers attention, increasing time on website and improving SEO.
 
+
+<a href="https://magefan.com/magento2-youtube-extension"><img width="300" height="60" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/DOWNLOAD_NOW.webp"></a>
+
 ## Benefits
 
 * Content Enrichment
