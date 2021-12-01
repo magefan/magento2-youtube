@@ -95,3 +95,5 @@ Watch [this video](https://www.youtube.com/watch?v=TbbnxJoMWXI) to learn more ab
   * [Magento 2 Admin Email Notifications](https://magefan.com/magento-2-admin-email-notifications)
   * [Magento 2 Facebook Pixel Extension](https://magefan.com/magento-2-facebook-pixel-extension)
   * [Better Magento 2 Checkout Extension](https://magefan.com/better-magento-2-checkout-extension)
+  * [Magento 2 AMP Blog Extension](https://magefan.com/magento-2-amp-blog-extension)
+  * [Magento 2 Coupon Code Link](https://magefan.com/magento-2-coupon-code-link)
