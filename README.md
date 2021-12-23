@@ -63,7 +63,7 @@ YouTube Video Extension has multiple options that allow you to configure the vid
 
 Watch [this video](https://www.youtube.com/watch?v=TbbnxJoMWXI) to learn more about how to embed the YouTube video into WYSIWYG editor with the Magento 2 YouTube video extension.
 
-## Other [Magento 2 Extensions](https://magefan.com/magento2-extensions) by Magefan
+## Other [Magento 2 Extensions](https://magefan.com/magento-2-extensions) by Magefan
   * [Magento 2 Blog Extension](https://magefan.com/magento2-blog-extension)
   * [Magento 2 Blog Plus Extension](https://magefan.com/magento2-blog-extension/pricing)
   * [Magento 2 Blog Extra Extension](https://magefan.com/magento2-blog-extension/pricing)
