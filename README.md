@@ -1,10 +1,12 @@
 # Magento 2 YouTube Video Extension
+<img width="150" height="100" src="https://magefan.com/media/wysiwyg/made_in_ukraine.jpg">
+
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-youtube.webp">
 
 Enrich your content embedding videos into your WYSIWYG editor with the [Magento 2 YouTube Video](https://magefan.com/magento2-youtube-extension) extension. It allows you to easily add videos to your Magento 2 website content to keep customers attention, increasing time on website and improving SEO.
 
 
-<a href="https://magefan.com/magento2-youtube-extension"><img width="300" height="60" src="https://cm.magefan.com/mf_webp/png/media/wysiwyg/DOWNLOAD_NOW.webp"></a>
+<a href="https://magefan.com/magento2-youtube-extension"><img width="190" height="70" src="https://magefan.com/media/wysiwyg/download-now_1.png"></a>
 
 ## Benefits
 
