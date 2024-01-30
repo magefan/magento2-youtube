@@ -24,7 +24,7 @@ Enrich your content embedding videos into your WYSIWYG editor with the [Magento 
 Unlike Magento default media tool Magento 2 YouTube Video extension allows you to upload videos faster and easier using the variety of available options.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/catalog/product/b/l/blog-extension-1-min_5.jpg">
+  <img width="700" height="349" src="https://cm.magefan.com/catalog/magento-youtube-video_1.png">
 </p>
 
 ### YouTube Video Popup
@@ -41,7 +41,7 @@ Website loading speed is very important when it comes to SEO so you really need 
 Google takes a lot of factors into account when defining the usefulness of the content and evaluating what position to put it on SERP. That is why it is useful to let Google know your page contains a video adding the video rich snippets.
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/catalog/product/m/a/magento-2-video-rich-snippet.png">
+  <img width="700" height="349" src="https://cm.magefan.com/catalog/youtube-video-rich-snippet_1.png">
 </p>
 
 ### Flexible Video Settings
@@ -54,7 +54,7 @@ YouTube Video Extension has multiple options that allow you to configure the vid
 * Preview Poster Quality
 
 <p align="center">
-  <img width="700" height="349" src="https://cm.magefan.com/catalog/product/m/a/magento-2-youtube-video-options.png">
+  <img width="700" height="349" src="https://cm.magefan.com/catalog/youtube-video-rich-snippet_1.png">
 </p>
 
 ## Documentation
