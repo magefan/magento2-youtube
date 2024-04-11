@@ -1,4 +1,4 @@
-# Magento 2 YouTube Video Extension
+# [Magento 2 YouTube Video](https://magefan.com/magento2-youtube-extension) by Magefan
 
 <a href="https://savelife.in.ua/en/donate-en/#donate-army-card-monthly"><img width="830" height="208" src="https://cm.magefan.com/blog/support-ukraine.png"></a>
 
@@ -6,17 +6,18 @@
 
 <img align="right" width="120" height="120" src="https://cm.magefan.com/mf_webp/jpg/media/catalog/product/cache/016c1dcfcd29d2b85ead3d1156d7ba11/i/c/icon-youtube.webp">
 
-Enrich your content embedding videos into your WYSIWYG editor with the [Magento 2 YouTube Video](https://magefan.com/magento2-youtube-extension) extension. It allows you to easily add videos to your Magento 2 website content to keep customers attention, increasing time on website and improving SEO.
-
+[Magento 2 YouTube Video](https://magefan.com/magento2-youtube-extension) extension is a solution that helps you to enrich your content by embedding videos into your WYSIWYG editor. It allows you to easily add videos to your Magento 2 website content to keep customers attention, increasing time on website and improving SEO.
 
 <a href="https://magefan.com/magento2-youtube-extension"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/download-magefan-extensions.png"></a><a href="https://magefan.com/magento2-youtube-extension#live-demo"><img width="190" height="70" src="https://cm.magefan.com/wysiwyg/products/magefan-live-demo.png"></a>
+
+## Requirements
+  * Magento Community 2.3.0-2.4.x (CE, EE, ECE, B2B)
 
 ## Benefits
 
 * Content Enrichment
 * Increased Time on Website
 * Decreased Customer Retention
-
 
 ## Features
 ### Fast YouTube Video Embed
@@ -115,6 +116,11 @@ Try out our open demo and if you like our extension **please give us some star o
     </tr>
   </tbody>
 </table>
+
+## Support
+If you have any issues, please [contact us](mailto:support@magefan.com)
+then if you still need help, open a bug report in GitHub's
+[issue tracker](https://github.com/magefan/magento2-youtube/issues).
 
 ## Need More Features?
 Please contact us to get a quote
